@@ -1,0 +1,1923 @@
+2013-01-07 02:59:47 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 27]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 03:00:00 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 27]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 03:00:35 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 27]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 03:11:53 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 30]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 30
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:19:50 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 36]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 36
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:19:58 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 36]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 36
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:24:12 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 33]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:25:43 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 33]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:27:21 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 33]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:28:55 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 38]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:30:35 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 38]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:32:30 Debug: Notice (8): Undefined index: name in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 2]
+Trace:
+include - APP\View\Posts\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:32:30 Debug: Notice (8): Undefined index: content in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 3]
+Trace:
+include - APP\View\Posts\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:34:08 Debug: Notice (8): Undefined index: name in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 2]
+Trace:
+include - APP\View\Posts\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:34:08 Debug: Notice (8): Undefined index: content in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 3]
+Trace:
+include - APP\View\Posts\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:36:25 Debug: Notice (8): Undefined index: name in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 2]
+Trace:
+include - APP\View\Posts\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:36:25 Debug: Notice (8): Undefined index: content in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 3]
+Trace:
+include - APP\View\Posts\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:37:42 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 33]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:38:04 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 33]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:41:47 Debug: Notice (8): Undefined index: file in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 33]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 33
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 22:57:42 Debug: Notice (8): Undefined variable: post_id in [C:\Dev\PhpServer\www\PhpProject1\app\Controller\MediasController.php, line 38]
+Trace:
+MediasController::admin_index() - APP\Controller\MediasController.php, line 38
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:02:18 Debug: Notice (8): Undefined variable: d in [C:\Dev\PhpServer\www\PhpProject1\app\View\Medias\admin_index.ctp, line 3]
+Trace:
+include - APP\View\Medias\admin_index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:12:12 Debug: Notice (8): Undefined variable: d in [C:\Dev\PhpServer\www\PhpProject1\app\View\Medias\admin_index.ctp, line 3]
+Trace:
+include - APP\View\Medias\admin_index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:13:11 Debug: Notice (8): Undefined variable: d in [C:\Dev\PhpServer\www\PhpProject1\app\View\Medias\admin_index.ctp, line 3]
+Trace:
+include - APP\View\Medias\admin_index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:13:40 Debug: Notice (8): Undefined variable: d in [C:\Dev\PhpServer\www\PhpProject1\app\View\Medias\admin_index.ctp, line 3]
+Trace:
+include - APP\View\Medias\admin_index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:25:11 Debug: Notice (8): Undefined variable: d in [C:\Dev\PhpServer\www\PhpProject1\app\View\Medias\admin_index.ctp, line 3]
+Trace:
+include - APP\View\Medias\admin_index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:30:50 Debug: Notice (8): Undefined index: name in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 2]
+Trace:
+include - APP\View\Posts\index.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-07 23:30:50 Debug: Notice (8): Undefined index: content in [C:\Dev\PhpServer\www\PhpProject1\app\View\Posts\index.ctp, line 3]
+Trace:
+include - APP\View\Posts\index.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:19:03 Debug: Strict (2048): Declaration of Myview::afterFind() should be compatible with Model::afterFind($results, $primary = false) in [C:\Dev\xampp\htdocs\PhpProject2\app\Model\Myview.php, line 6]
+Trace:
+include - APP\Model\Myview.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 560
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 136
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 733
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 366
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 404
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 11
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:19:04 Debug: Strict (2048): Declaration of Myview::afterFind() should be compatible with Model::afterFind($results, $primary = false) in [C:\Dev\xampp\htdocs\PhpProject2\app\Model\Myview.php, line 6]
+Trace:
+include - APP\Model\Myview.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 136
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 733
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 366
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 404
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 11
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:19:05 Debug: Strict (2048): Declaration of Myview::afterFind() should be compatible with Model::afterFind($results, $primary = false) in [C:\Dev\xampp\htdocs\PhpProject2\app\Model\Myview.php, line 6]
+Trace:
+include - APP\Model\Myview.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 136
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 733
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 366
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 404
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 11
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:19:06 Debug: Strict (2048): Declaration of Myview::afterFind() should be compatible with Model::afterFind($results, $primary = false) in [C:\Dev\xampp\htdocs\PhpProject2\app\Model\Myview.php, line 6]
+Trace:
+include - APP\Model\Myview.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 136
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 733
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 366
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 404
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 11
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:19:12 Debug: Strict (2048): Declaration of Myview::afterFind() should be compatible with Model::afterFind($results, $primary = false) in [C:\Dev\xampp\htdocs\PhpProject2\app\Model\Myview.php, line 6]
+Trace:
+include - APP\Model\Myview.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 136
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 733
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 366
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 404
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 11
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:19:38 Debug: Strict (2048): Declaration of Myview::afterFind() should be compatible with Model::afterFind($results, $primary = false) in [C:\Dev\xampp\htdocs\PhpProject2\app\Model\Myview.php, line 6]
+Trace:
+include - APP\Model\Myview.php, line 6
+App::load() - CORE\Cake\Core\App.php, line 560
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 136
+Controller::loadModel() - CORE\Cake\Controller\Controller.php, line 733
+Controller::__isset() - CORE\Cake\Controller\Controller.php, line 366
+Controller::__get() - CORE\Cake\Controller\Controller.php, line 404
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:25 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:25 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:25 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:25 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:42 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:42 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:42 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:33:42 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:19 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:19 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:19 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:19 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:24 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:24 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:24 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:34:24 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:36:29 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:36:29 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:36:36 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:36:36 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:51 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:51 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:51 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:51 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:56 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:56 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:56 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 16:37:56 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:22:29 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:22:29 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:22:29 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 41]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 41
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:22:43 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:22:43 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:22:43 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 41]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 41
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:23:21 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:23:21 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:23:21 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 41]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 41
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:23:25 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:23:25 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:23:25 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 41]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 41
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:27:15 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:27:15 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:27:23 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:27:23 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:31:00 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:31:00 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:31:05 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:31:05 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:33:35 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:33:35 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:33:40 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:33:40 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:37:05 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:37:05 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:37:09 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:37:09 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:39:45 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:39:45 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:39:51 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:39:51 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:42:27 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:42:27 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:42:31 Debug: Notice (8): Undefined variable: rows in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:42:31 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:49:36 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:49:40 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:50:46 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:50:46 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:50:49 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 25]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 25
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:50:49 Debug: Notice (8): Undefined variable: data in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 34]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:27 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:27 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:27 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:27 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:30 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:30 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:30 Debug: Notice (8): Undefined index: column1 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:52:30 Debug: Notice (8): Undefined index: column2 in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:17 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:17 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:17 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:17 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:21 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:21 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:21 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 36]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 36
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:54:21 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 37]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:56:21 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:56:21 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:56:23 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:56:23 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:57:05 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:57:05 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:57:18 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-01-26 17:57:18 Debug: Notice (8): Array to string conversion in [C:\Dev\xampp\htdocs\PhpProject2\app\View\Myviews\export_xls.ctp, line 35]
+Trace:
+include - APP\View\Myviews\export_xls.ctp, line 35
+View::_evaluate() - CORE\Cake\View\View.php, line 923
+View::_render() - CORE\Cake\View\View.php, line 886
+View::render() - CORE\Cake\View\View.php, line 476
+Controller::render() - CORE\Cake\Controller\Controller.php, line 956
+MyviewsController::export_xls() - APP\Controller\MyviewsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2013-02-18 15:49:03 Debug: permission: actionUrl-pages/home
+2013-02-18 17:04:42 Debug: permission: actionUrl-pages/home
+2013-02-18 17:04:54 Debug: permission: actionUrl-pages/home
+2013-02-18 17:05:00 Debug: permission: actionUrl-pages/home
+2013-02-18 17:05:14 Debug: permission: actionUrl-formations/index
+2013-02-18 17:16:15 Debug: permission: actionUrl-full_calendar/index
+2013-02-18 17:17:30 Debug: permission: actionUrl-pages/home
+2013-02-18 17:19:08 Debug: permission: actionUrl-pages/home
+2013-02-18 17:55:19 Debug: permission: actionUrl-events/feed
+2013-02-18 20:28:19 Debug: permission: actionUrl-events/feed
+2013-02-18 20:35:56 Debug: permission: actionUrl-events/feed
+2013-02-18 20:36:55 Debug: permission: actionUrl-events/feed
+2013-02-18 20:37:39 Debug: permission: actionUrl-events/feed
+2013-02-18 20:40:27 Debug: permission: actionUrl-events/feed
+2013-02-18 20:56:51 Debug: permission: actionUrl-events/feed
+2013-02-18 20:58:45 Debug: permission: actionUrl-events/feed
+2013-02-18 20:59:15 Debug: permission: actionUrl-events/feed
+2013-02-18 21:09:31 Debug: permission: actionUrl-events/feed
+2013-02-18 21:27:45 Debug: permission: actionUrl-events/feed
+2013-02-18 21:29:44 Debug: permission: actionUrl-events/feed
+2013-02-18 21:30:45 Debug: permission: actionUrl-events/feed
+2013-02-18 21:31:34 Debug: permission: actionUrl-events/feed
+2013-02-18 21:32:03 Debug: permission: actionUrl-events/feed
+2013-02-18 21:32:41 Debug: permission: actionUrl-events/feed
+2013-02-18 21:33:36 Debug: permission: actionUrl-events/feed
+2013-02-18 21:36:08 Debug: permission: actionUrl-events/feed
+2013-02-18 21:59:55 Debug: permission: actionUrl-events/feed
+2013-02-18 22:10:00 Debug: permission: actionUrl-events/feed
+2013-02-18 22:11:15 Debug: permission: actionUrl-events/feed
+2013-02-18 22:12:21 Debug: permission: actionUrl-events/feed
+2013-02-18 22:14:15 Debug: permission: actionUrl-events/feed
+2013-02-18 22:19:21 Debug: permission: actionUrl-events/feed
+2013-02-18 22:41:05 Debug: permission: actionUrl-events/feed
+2013-02-18 22:43:52 Debug: permission: actionUrl-events/feed
+2013-02-18 22:44:36 Debug: permission: actionUrl-events/feed
+2013-02-18 22:45:04 Debug: permission: actionUrl-events/feed
+2013-02-18 22:46:38 Debug: permission: actionUrl-events/feed
+2013-02-18 22:47:27 Debug: permission: actionUrl-events/feed
+2013-02-18 22:49:38 Debug: permission: actionUrl-events/feed
+2013-02-18 22:50:29 Debug: permission: actionUrl-events/feed
+2013-02-18 22:51:32 Debug: permission: actionUrl-events/feed
+2013-02-18 22:51:58 Debug: permission: actionUrl-events/feed
+2013-02-18 22:52:24 Debug: permission: actionUrl-events/feed
+2013-02-18 22:52:31 Debug: permission: actionUrl-events/feed
+2013-02-18 22:52:32 Debug: permission: actionUrl-events/feed
+2013-02-18 22:54:52 Debug: permission: actionUrl-events/feed
+2013-02-18 23:00:51 Debug: permission: actionUrl-events/feed
+2013-02-18 23:02:50 Debug: permission: actionUrl-events/feed
+2013-02-18 23:03:13 Debug: permission: actionUrl-events/feed
+2013-02-18 23:04:00 Debug: permission: actionUrl-events/feed
+2013-02-18 23:05:28 Debug: permission: actionUrl-events/feed
+2013-02-18 23:06:49 Debug: permission: actionUrl-events/feed
+2013-02-18 23:07:14 Debug: permission: actionUrl-events/feed
+2013-02-18 23:07:21 Debug: permission: actionUrl-events/feed
+2013-02-18 23:12:30 Debug: permission: actionUrl-events/feed
+2013-02-18 23:25:19 Debug: permission: actionUrl-events/feed
+2013-02-18 23:25:52 Debug: permission: actionUrl-events/feed
+2013-02-18 23:26:59 Debug: permission: actionUrl-events/feed
+2013-02-18 23:27:43 Debug: permission: actionUrl-events/feed
+2013-02-18 23:28:16 Debug: permission: actionUrl-events/feed
+2013-02-18 23:28:35 Debug: permission: actionUrl-events/feed
+2013-02-18 23:32:09 Debug: permission: actionUrl-events/feed
+2013-02-18 23:36:41 Debug: permission: actionUrl-events/feed
+2013-02-18 23:37:24 Debug: permission: actionUrl-events/feed
+2013-02-18 23:38:43 Debug: permission: actionUrl-events/feed
+2013-02-18 23:40:17 Debug: permission: actionUrl-events/feed
+2013-02-18 23:44:22 Debug: permission: actionUrl-events/feed
+2013-02-18 23:45:26 Debug: permission: actionUrl-events/feed
+2013-02-18 23:46:01 Debug: permission: actionUrl-events/feed
+2013-02-18 23:46:51 Debug: permission: actionUrl-events/feed
+2013-02-18 23:49:30 Debug: permission: actionUrl-events/feed
+2013-02-19 09:42:55 Debug: permission: actionUrl-events/feed
+2013-02-19 09:43:15 Debug: permission: actionUrl-events/add
+2013-02-20 10:15:00 Debug: permission: actionUrl-TicketEmails/getAllEmails
+2013-02-20 10:15:16 Debug: permission: actionUrl-TicketEmails/getAllEmails
+2013-02-20 10:15:35 Debug: permission: actionUrl-TicketEmails/getAllEmails
+2013-02-21 00:08:05 Debug: permission: actionUrl-inscriptions/add
+2013-02-21 03:40:10 Debug: permission: actionUrl-inscriptions/add
+2013-02-21 10:48:43 Debug: permission: actionUrl-inscriptions/add
+2013-02-21 15:27:50 Debug: permission: actionUrl-events/feed
+2013-02-21 15:28:04 Debug: permission: actionUrl-events/feed
+2013-02-21 15:28:05 Debug: permission: actionUrl-events/feed
+2013-02-21 15:28:06 Debug: permission: actionUrl-events/feed
+2013-02-21 15:28:07 Debug: permission: actionUrl-events/feed
+2013-02-21 15:28:08 Debug: permission: actionUrl-events/feed
+2013-02-21 15:28:15 Debug: permission: actionUrl-events/add
+2013-02-22 14:26:16 Debug: permission: actionUrl-formations/search
+2013-02-22 14:28:20 Debug: permission: actionUrl-formations/search
+2013-02-22 18:27:13 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:54 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:57 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:57 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:58 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:58 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:59 Debug: permission: actionUrl-events/feed
+2013-02-22 18:29:59 Debug: permission: actionUrl-events/feed
+2013-02-22 18:30:00 Debug: permission: actionUrl-events/feed
+2013-02-22 18:30:01 Debug: permission: actionUrl-events/feed
+2013-02-22 18:30:02 Debug: permission: actionUrl-events/feed
+2013-02-22 18:30:06 Debug: permission: actionUrl-events/feed
+2013-02-22 18:30:08 Debug: permission: actionUrl-events/add
+2013-02-22 18:30:42 Debug: permission: actionUrl-events/feed
+2013-02-22 18:55:21 Debug: permission: actionUrl-events/feed
+2013-02-22 19:06:57 Debug: permission: actionUrl-events/feed
+2013-02-22 19:06:59 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:01 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:02 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:02 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:02 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:03 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:03 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:03 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:03 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:04 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:04 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:04 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:04 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:04 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:04 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:05 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:05 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:05 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:05 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:06 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:06 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:06 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:06 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:06 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:07 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:07 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:07 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:07 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:08 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:08 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:08 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:08 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:09 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:09 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:09 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:09 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:10 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:10 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:10 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:10 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:10 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:11 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:11 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:11 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:11 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:11 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:11 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:12 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:12 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:12 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:12 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:12 Debug: permission: actionUrl-events/feed
+2013-02-22 19:07:14 Debug: permission: actionUrl-events/feed
+2013-02-22 19:42:19 Debug: permission: actionUrl-events/feed
+2013-02-22 19:45:53 Debug: permission: actionUrl-events/feed
+2013-02-22 19:47:06 Debug: permission: actionUrl-events/feed
+2013-02-22 23:43:14 Debug: permission: actionUrl-events/add
+2013-02-23 00:21:08 Debug: permission: actionUrl-events/feed
+2013-02-23 00:38:29 Debug: permission: actionUrl-events/update
+2013-02-23 00:38:30 Debug: permission: actionUrl-events/update
+2013-02-23 00:39:05 Debug: permission: actionUrl-events/update
+2013-02-23 00:39:10 Debug: permission: actionUrl-events/add
+2013-02-23 00:39:26 Debug: permission: actionUrl-events/update
+2013-02-23 00:39:29 Debug: permission: actionUrl-events/update
+2013-02-23 00:39:31 Debug: permission: actionUrl-events/update
+2013-02-23 00:39:33 Debug: permission: actionUrl-events/update
+2013-02-23 00:40:16 Debug: permission: actionUrl-events/update
+2013-02-23 00:40:18 Debug: permission: actionUrl-events/update
+2013-02-23 00:40:31 Debug: permission: actionUrl-events/update
+2013-02-23 00:40:33 Debug: permission: actionUrl-events/update
+2013-02-23 00:45:49 Debug: permission: actionUrl-events/feed
+2013-02-23 00:50:32 Debug: permission: actionUrl-events/update
+2013-02-23 00:50:39 Debug: permission: actionUrl-events/update
+2013-02-23 00:50:50 Debug: permission: actionUrl-events/update
+2013-02-23 00:50:52 Debug: permission: actionUrl-events/update
+2013-02-23 00:59:03 Debug: permission: actionUrl-events/update
+2013-02-23 00:59:27 Debug: permission: actionUrl-events/update
+2013-02-23 00:59:36 Debug: permission: actionUrl-events/update
+2013-02-24 23:42:42 Debug: permission: actionUrl-inscriptions/add
+2013-02-24 23:47:37 Debug: permission: actionUrl-inscriptions/add
+2013-02-25 05:42:26 Debug: permission: actionUrl-events/add
+2013-02-25 13:20:50 Debug: permission: actionUrl-events/add
+2013-02-26 02:58:35 Debug: permission: actionUrl-events/add
+2013-03-30 14:55:23 Debug: permission: actionUrl-events/add
+2013-03-31 03:48:12 Debug: permission: actionUrl-inscriptions/add
+2013-03-31 05:51:56 Debug: permission: actionUrl-inscriptions/add
+2013-03-31 05:57:07 Debug: permission: actionUrl-inscriptions/add
+2013-03-31 07:47:31 Debug: permission: actionUrl-inscriptions/add
+2013-04-02 12:15:42 Debug: permission: actionUrl-event_types/view
+2013-04-03 05:34:05 Debug: permission: actionUrl-formations/search
+2013-04-04 23:43:04 Debug: permission: actionUrl-inscriptions/add
+2013-04-05 00:27:34 Debug: permission: actionUrl-inscriptions/add
+2013-04-05 18:11:21 Debug: permission: actionUrl-formations/edit
+2013-04-05 18:12:23 Debug: permission: actionUrl-formations/edit
+2013-04-06 06:23:50 Debug: permission: actionUrl-inscriptions/add
+2013-04-06 07:04:24 Debug: permission: actionUrl-inscriptions/add
+2013-04-06 08:09:40 Debug: permission: actionUrl-events/update
+2013-04-06 08:09:48 Debug: permission: actionUrl-events/update
+2013-04-06 08:09:50 Debug: permission: actionUrl-events/update
+2013-04-06 08:09:57 Debug: permission: actionUrl-events/update
+2013-04-06 09:29:34 Debug: permission: actionUrl-formations/add
+2013-04-06 10:34:08 Debug: permission: actionUrl-users/dashboard
+2013-04-06 10:34:26 Debug: permission: actionUrl-pages/home
+2013-04-06 10:34:26 Debug: permission: actionUrl-formations/index
+2013-04-06 10:34:36 Debug: permission: actionUrl-users/dashboard
+2013-04-08 09:34:41 Debug: permission: actionUrl-events/add
+2013-04-08 10:02:01 Debug: permission: actionUrl-events/add
+2013-04-13 10:56:15 Debug: permission: actionUrl-formations/news
+2013-04-25 20:01:49 Debug: permission: actionUrl-pages/galleryImage
+2013-04-28 05:35:04 Debug: permission: actionUrl-pages/galleryImage
+2013-04-28 09:08:55 Debug: permission: actionUrl-pages/galleryImage
+2013-04-28 09:13:17 Debug: permission: actionUrl-pages/galleryImage
+2013-04-28 09:26:43 Debug: permission: actionUrl-pages/galleryImage
+2013-04-28 09:39:19 Debug: permission: actionUrl-pages/galleryImage
+2013-04-28 18:09:25 Debug: permission: actionUrl-pages/galleryImage
+2013-05-07 21:58:56 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:02:12 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:05:02 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:07:16 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:07:23 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:11:16 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:15:55 Debug: permission: actionUrl-medias/loadListImages
+2013-05-07 22:20:56 Debug: permission: actionUrl-medias/loadListImages

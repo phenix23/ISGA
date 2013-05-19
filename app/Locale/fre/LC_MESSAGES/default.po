@@ -1,0 +1,434 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-04-30 01:48+0200\n"
+"PO-Revision-Date: 2013-04-30 03:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>2);\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: Controller\UserGroupsController.php:45
+msgid "The group is successfully added"
+msgstr "Le groupe ajouté "
+
+#: Controller\UserGroupsController.php:63
+msgid "The group is successfully updated"
+msgstr "Le groupe mis à jour"
+
+#: Controller\UserGroupsController.php:85
+msgid "Sorry some users are associated with this group, You cannot delete"
+msgstr ""
+"Désolé .. des utilisateurs assosiées à ce groupe , vous pouvez pas le "
+"supprimer"
+
+#: Controller\UserGroupsController.php:89
+msgid "Group is successfully deleted"
+msgstr "Le groupe supprimé"
+
+#: Controller\UsersController.php:95;131
+msgid "Incorrect Email/Username or Password"
+msgstr "Email/Nom Utilisateur ou mot de passe erroné"
+
+#: Controller\UsersController.php:101
+msgid "Sorry your account is not active, please contact to Administrator"
+msgstr "Désolé votre compte est inactif , Merci des connecter l'administrateur"
+
+#: Controller\UsersController.php:106
+msgid ""
+"Your registration has not been confirmed please verify your email or contact "
+"to Administrator"
+msgstr ""
+"Votre Inscription n'est pas confirmé ,Merci de verifier votre email ou "
+"contacter l'Adminstrateur"
+
+#: Controller\UsersController.php:145
+msgid "You are successfully signed out"
+msgstr "Vous êtes déconnecté"
+
+#: Controller\UsersController.php:171
+msgid "Please select correct register as"
+msgstr "Merci de selectionner le bon registration"
+
+#: Controller\UsersController.php:199
+msgid "Please check your mail and confirm your registration"
+msgstr ""
+"Désolé une nouvelle registration est maintenant disactiver , Merci de "
+"reseaiyer plus trads"
+
+#: Controller\UsersController.php:205
+msgid "Sorry new registration is currently disabled, please try again later"
+msgstr ""
+
+#: Controller\UsersController.php:227
+msgid "Password changed successfully"
+msgstr "Mot de passe est changé"
+
+#: Controller\UsersController.php:253
+msgid "Password for %s changed successfully"
+msgstr ""
+
+#: Controller\UsersController.php:279
+msgid "The user is successfully added"
+msgstr "Unutilisatur est ajouté"
+
+#: Controller\UsersController.php:299
+msgid "The user is successfully updated"
+msgstr "Un utilisateur est mis à jours"
+
+#: Controller\UsersController.php:326
+msgid "User is successfully deleted"
+msgstr "Un utilisateur est supprimé"
+
+#: Controller\UsersController.php:360
+msgid "User is successfully activated"
+msgstr "Utilisateur est activé"
+
+#: Controller\UsersController.php:362
+msgid "User is successfully deactivated"
+msgstr "Utilisateur est disactivé"
+
+#: Controller\UsersController.php:380
+msgid "User email is successfully verified"
+msgstr "Mail utilisateur est verifié"
+
+#: Controller\UsersController.php:414
+msgid "Thank you, your account is activated now"
+msgstr "Merci , votre compte est activé maintenant"
+
+#: Controller\UsersController.php:417
+msgid "Thank you, your account is already activated"
+msgstr "Merci , votre compte est toujours active"
+
+#: Controller\UsersController.php:420;423
+msgid "Sorry something went wrong, please click on the link again"
+msgstr "Désolé , il y a une erreur , merci de clicker sur le lien encors"
+
+#: Controller\UsersController.php:442;516
+msgid "Incorrect Email/Username"
+msgstr "Email/Nom Utilisateur est Incorrect"
+
+#: Controller\UsersController.php:448
+msgid ""
+"Your registration has not been confirmed yet please verify your email before "
+"reset password"
+msgstr ""
+"votre inscription n'est pas confirmer , Alors merci de vérifier votre email "
+"avant de réintialiser le mot de passe"
+
+#: Controller\UsersController.php:452
+msgid "Please check your mail for reset your password"
+msgstr "Merci de vérifier votre mail pour reintialiser le mot de passe"
+
+#: Controller\UsersController.php:482
+msgid "Your password has been reset successfully"
+msgstr "Votre mot de passe est réintialisé"
+
+#: Controller\UsersController.php:485
+msgid "Something went wrong, please send password reset link again"
+msgstr "Erreur , Merci de réinitialiser le mot de passe une autre fois"
+
+#: Controller\UsersController.php:488;492
+msgid "Something went wrong, please click again on the link in email"
+msgstr "Erreur ... , Merci de clicker une autre fois le lien du l'email"
+
+#: Controller\UsersController.php:522
+msgid "Please check your mail to verify your email"
+msgstr "Merci de vérifier votre email"
+
+#: Controller\UsersController.php:524
+msgid "Your email is already verified"
+msgstr "Votre mail toujours valide"
+
+#: View\Elements\dashboard.ctp:22 View\Users\access_denied.ctp:34
+#: View\Users\dashboard.ctp:28
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: View\Elements\dashboard.ctp:24 View\Users\add_user.ctp:28;75
+#: View\Users\dashboard.ctp:38
+msgid "Add User"
+msgstr "Ajouter Utilisateur"
+
+#: View\Elements\dashboard.ctp:25 View\Users\dashboard.ctp:39
+#: View\Users\index.ctp:28
+msgid "All Users"
+msgstr "Tous les Utiliateurs"
+
+#: View\Elements\dashboard.ctp:26 View\UserGroups\add_group.ctp:28;57
+#: View\Users\dashboard.ctp:40
+msgid "Add Group"
+msgstr "Ajout Groupe"
+
+#: View\Elements\dashboard.ctp:27 View\UserGroups\index.ctp:28
+#: View\Users\dashboard.ctp:41
+msgid "All Groups"
+msgstr "Groupes"
+
+#: View\Elements\dashboard.ctp:28 View\Users\dashboard.ctp:42
+msgid "Permissions"
+msgstr "Permissions"
+
+#: View\Elements\dashboard.ctp:29;32 View\Users\dashboard.ctp:43;47
+msgid "Profile"
+msgstr "Profile"
+
+#: View\Elements\dashboard.ctp:30 View\Users\dashboard.ctp:44
+msgid "Edit Profile"
+msgstr "Editer Profile"
+
+#: View\Elements\dashboard.ctp:34 View\Users\change_password.ctp:28
+#: View\Users\dashboard.ctp:46
+msgid "Change Password"
+msgstr "Changer Mot de passe"
+
+#: View\Elements\dashboard.ctp:35
+msgid "Sign Out"
+msgstr "Se Déconnecter"
+
+#: View\UserGroupPermissions\index.ctp:29
+msgid "User Group Permissions"
+msgstr "Permission / Groupe"
+
+#: View\UserGroupPermissions\index.ctp:31
+msgid "Select Controller"
+msgstr "Selectionner Controlleur"
+
+#: View\UserGroupPermissions\index.ctp:43
+msgid "Controller"
+msgstr "Controlleur"
+
+#: View\UserGroupPermissions\index.ctp:44 View\UserGroups\index.ctp:42
+#: View\Users\index.ctp:45
+msgid "Action"
+msgstr "Action"
+
+#: View\UserGroupPermissions\index.ctp:45
+msgid "Permission"
+msgstr "Permission"
+
+#: View\UserGroupPermissions\index.ctp:46
+msgid "Operation"
+msgstr "Operation"
+
+#: View\UserGroups\add_group.ctp:29 View\UserGroups\edit_group.ctp:29
+#: View\UserGroups\index.ctp:29 View\Users\access_denied.ctp:28
+#: View\Users\activate_password.ctp:28 View\Users\add_user.ctp:29
+#: View\Users\change_password.ctp:29 View\Users\change_user_password.ctp:29
+#: View\Users\dashboard.ctp:29 View\Users\edit_user.ctp:29
+#: View\Users\email_verification.ctp:28 View\Users\forgot_password.ctp:28
+#: View\Users\index.ctp:29 View\Users\login.ctp:29 View\Users\myprofile.ctp:29
+#: View\Users\register.ctp:29 View\Users\view_user.ctp:29
+msgid "Home"
+msgstr "Accueil"
+
+#: View\UserGroups\add_group.ctp:36 View\UserGroups\edit_group.ctp:37
+msgid "Group Name"
+msgstr "Nom Groupe"
+
+#: View\UserGroups\add_group.ctp:42 View\UserGroups\edit_group.ctp:43
+msgid "Alias Group Name"
+msgstr "Alias Nom Groupe"
+
+#: View\UserGroups\add_group.ctp:51 View\UserGroups\edit_group.ctp:49
+#: View\UserGroups\index.ctp:40
+msgid "Allow Registration"
+msgstr "Permis l'inscription"
+
+#: View\UserGroups\edit_group.ctp:28
+msgid "Edit Group"
+msgstr "Editer Groupe"
+
+#: View\UserGroups\edit_group.ctp:55
+msgid "Update Group"
+msgstr "Mise à jours Groupe"
+
+#: View\UserGroups\index.ctp:37
+msgid "Group Id"
+msgstr "Groupe ID"
+
+#: View\UserGroups\index.ctp:38 View\Users\index.ctp:38
+msgid "Name"
+msgstr "Nom"
+
+#: View\UserGroups\index.ctp:39
+msgid "Alias Name"
+msgstr ""
+
+#: View\UserGroups\index.ctp:41 View\Users\index.ctp:44
+#: View\Users\myprofile.ctp:84 View\Users\view_user.ctp:86
+msgid "Created"
+msgstr "Créeé"
+
+#: View\UserGroups\index.ctp:63 View\Users\index.ctp:87
+msgid "Delete"
+msgstr "Supprimer"
+
+#: View\UserGroups\index.ctp:63
+msgid "Are you sure you want to delete this group? Delete it your own risk"
+msgstr ""
+
+#: View\Users\access_denied.ctp:27
+msgid "Access Denied"
+msgstr "Accès interdit"
+
+#: View\Users\activate_password.ctp:27
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+#: View\Users\activate_password.ctp:36 View\Users\add_user.ctp:64
+#: View\Users\change_user_password.ctp:37 View\Users\login.ctp:42
+#: View\Users\register.ctp:64
+msgid "Password"
+msgstr "Mot de passe"
+
+#: View\Users\activate_password.ctp:41 View\Users\add_user.ctp:69
+#: View\Users\change_password.ctp:47 View\Users\change_user_password.ctp:42
+#: View\Users\register.ctp:69
+msgid "Confirm Password"
+msgstr "Confirmer mot de passe"
+
+#: View\Users\activate_password.ctp:56
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: View\Users\add_user.ctp:38 View\Users\edit_user.ctp:39
+#: View\Users\index.ctp:41 View\Users\register.ctp:38
+msgid "Group"
+msgstr "Groupe"
+
+#: View\Users\add_user.ctp:44 View\Users\edit_user.ctp:45
+#: View\Users\index.ctp:39 View\Users\myprofile.ctp:46
+#: View\Users\register.ctp:44 View\Users\view_user.ctp:46
+msgid "Username"
+msgstr "Nom utilisateur"
+
+#: View\Users\add_user.ctp:49 View\Users\edit_user.ctp:50
+#: View\Users\myprofile.ctp:50 View\Users\register.ctp:49
+#: View\Users\view_user.ctp:50
+msgid "First Name"
+msgstr "Prénom"
+
+#: View\Users\add_user.ctp:54 View\Users\edit_user.ctp:55
+#: View\Users\myprofile.ctp:54 View\Users\register.ctp:54
+#: View\Users\view_user.ctp:54
+msgid "Last Name"
+msgstr "Nom"
+
+#: View\Users\add_user.ctp:59 View\Users\edit_user.ctp:60
+#: View\Users\index.ctp:40 View\Users\myprofile.ctp:58
+#: View\Users\register.ctp:59 View\Users\view_user.ctp:58
+msgid "Email"
+msgstr "Email"
+
+#: View\Users\change_password.ctp:37
+msgid "Old Password"
+msgstr "Ancien mot de passe"
+
+#: View\Users\change_password.ctp:42
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+#: View\Users\change_password.ctp:53 View\Users\change_user_password.ctp:48
+msgid "Change"
+msgstr "Modifier"
+
+#: View\Users\change_user_password.ctp:28
+msgid "Change Password for "
+msgstr "Changer mot de passe"
+
+#: View\Users\edit_user.ctp:28
+msgid "Edit User"
+msgstr "Editer Utilisateur"
+
+#: View\Users\edit_user.ctp:66
+msgid "Update User"
+msgstr "Utilisateur mis à jour"
+
+#: View\Users\email_verification.ctp:27 View\Users\login.ctp:61
+msgid "Email Verification"
+msgstr "Email vérifié"
+
+#: View\Users\email_verification.ctp:35 View\Users\forgot_password.ctp:36
+msgid "Enter Email / Username"
+msgstr "Entrer Email/Mot de passe"
+
+#: View\Users\email_verification.ctp:41 View\Users\forgot_password.ctp:42
+msgid "Send Email"
+msgstr "Evnoi email"
+
+#: View\Users\forgot_password.ctp:27
+msgid "Forgot Password"
+msgstr "Mot de passe oublié"
+
+#: View\Users\index.ctp:37
+msgid "SL"
+msgstr ""
+
+#: View\Users\index.ctp:42 View\Users\myprofile.ctp:62
+#: View\Users\view_user.ctp:62
+msgid "Email Verified"
+msgstr "Email vérifié"
+
+#: View\Users\index.ctp:43 View\Users\myprofile.ctp:73
+#: View\Users\view_user.ctp:72
+msgid "Status"
+msgstr "Statu"
+
+#: View\Users\index.ctp:87
+msgid "Are you sure you want to delete this user?"
+msgstr "êTes vous sure de supprimer cet utilisateur"
+
+#: View\Users\login.ctp:27
+msgid "Sign In or"
+msgstr "Se Connecter ou"
+
+#: View\Users\login.ctp:28 View\Users\register.ctp:81
+msgid "Sign Up"
+msgstr "Se déconnecter"
+
+#: View\Users\login.ctp:37
+msgid "Email / Username"
+msgstr "email/Nom Utilisateur"
+
+#: View\Users\login.ctp:50
+msgid "Remember me"
+msgstr "Souviens moi"
+
+#: View\Users\login.ctp:56 View\Users\register.ctp:28
+msgid "Sign In"
+msgstr "Se déconnecter"
+
+#: View\Users\login.ctp:60
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié"
+
+#: View\Users\myprofile.ctp:28
+msgid "My Profile"
+msgstr "Mon Profile"
+
+#: View\Users\myprofile.ctp:38 View\Users\view_user.ctp:38
+msgid "User Id"
+msgstr "Utilisateur groupe"
+
+#: View\Users\myprofile.ctp:42 View\Users\view_user.ctp:42
+msgid "User Group"
+msgstr "Groupe Utilisateurs"
+
+#: View\Users\register.ctp:27
+msgid "Sign Up or"
+msgstr "Se déconnecter"
+
+#: View\Users\view_user.ctp:28
+msgid "User Detail"
+msgstr "Détails Utilisateur"
+
+#: View\Users\view_user.ctp:82
+msgid "Ip Address"
+msgstr "Adresse IP"

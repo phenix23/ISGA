@@ -1,0 +1,221 @@
+/* 
+    Document   : img
+    Created on : 23 janv. 2013, 15:48:35
+    Author     : HEDAHDIA FAYCEL
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*img {
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+*/
+
+.icon-aside {
+    width: 120px;
+    height: 150px;
+    position: static;
+    border-radius: 0 0 8px 8px;
+    margin-left: 55px;
+    overflow: hidden;
+    -moz-box-shadow: 0px 5px 5px rgb(131, 147, 177);
+    -webkit-box-shadow: 0px 5px 5px rgb(131, 147, 177);
+    box-shadow: 0px 8px 8px rgb(131, 147, 177);
+    border: 5px solid #fff;
+
+}
+
+.caption {
+    background: none repeat scroll 0 0 rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 165px;
+    width: 128px;
+    opacity: 0.6;
+    padding-top: 8px;
+    margin-left : 10px;
+    margin-top: -360px;
+    transition: margin-top 2s;
+    -moz-transition:margin-top 2s; /* Firefox 4 */
+    -webkit-transition:margin-top 2s; /* Safari and Chrome */
+    -o-transition:margin-top 2s; /* Opera */
+    background-image: url('../img/pdf_1.png');
+    background-repeat: no-repeat;
+    background-size: 70% 60% ;
+    background-position-x: 50%, 0%;
+    background-position-y: 50%, 0%;
+    background-origin: padding-box;
+    background-clip: border-box;
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: 0px solid black;
+    border-radius: 0 0 8px 8px;
+    position: relative;
+}
+
+
+.inside:hover .caption{
+    margin-top: -172px;
+}
+
+#first-row .span4:hover {
+    box-shadow: 1px 1px 12px rgb(255, 80, 47);
+    border: 0.8px solid #cccccc;
+    transition: border linear 0.2s, box-shadow linear 0.2s;
+    -webkit-box-shadow: 1px 1px 12px rgb(255, 80, 47);
+    -o-box-shadow: 1px 1px 12px rgb(255, 80, 47);
+    -moz-box-shadow: 1px 1px 12px rgb(255, 80, 47);
+    -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -moz-transition:border linear 0.2s, box-shadow linear 0.2s;
+    -o-transition:border linear 0.2s, box-shadow linear 0.2s;
+
+}
+
+#secend-row .span4:hover {
+    box-shadow: 1px 1px 12px burlywood;
+    border: 0.8px solid burlywood;
+    transition: border linear 0.2s, box-shadow linear 0.2s;
+    -webkit-box-shadow: 1px 1px 12px burlywood;
+    -o-box-shadow: 1px 1px 12px burlywood;
+    -moz-box-shadow: 1px 1px 12px burlywood;
+    -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -moz-transition:border linear 0.2s, box-shadow linear 0.2s;
+    -o-transition:border linear 0.2s, box-shadow linear 0.2s;
+
+}
+
+
+
+
+.separator {
+   /*// margin-top: 10px;*/
+}
+
+div.infobox {
+    background: none repeat scroll 0 0 white;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+    -moz-box-shadow: 0px 5px 5px #8393b1;
+    -webkit-box-shadow: 0px 5px 5px #8393b1;
+    box-shadow: 0px 5px 5px #8393b1;
+    border-top: 1px solid #cccccc;
+    border-collapse: collapse;
+    padding-top: 10px;
+    background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
+    background-image: -o-linear-gradient(top, #ffffff, #f2f2f2);
+    background-image: -webkit-linear-gradient(top, #ffffff, #f2f2f2);
+    background-image: linear-gradient(top, #ffffff, #f2f2f2);
+    margin: 10px;
+    text-align: center;
+}
+
+.header {
+    background: gray;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    border-radius: 8px 8px 0 0;
+    padding: 5px;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+
+.actions {
+    padding: 20px;
+    margin-left: -20px;
+}
+
+.title {
+    position: relative;
+    text-align: center;
+    background-color: rgb(151, 151, 165);
+    border-radius: 8px 8px 0 0;
+    color: rgb(36, 24, 24);
+    -moz-box-shadow: 0px 8px 8px #8393b1;
+    -o-box-shadow:0px 8px 8px #8393b1;
+    box-shadow: 0px 8px 8px #8393b1;
+    border: 1px solid rgb(165, 165, 165);
+    font-weight: bold;
+    margin-bottom: 0px;
+    height: 50px;
+    background-image: -webkit-linear-gradient(rgb(255, 255, 255), rgb(211, 211, 211));
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: initial;
+    z-index:1;
+}
+
+.title p {
+    margin-top: 10px;
+    font-size: large;
+}
+
+/* Rubbon pour les titres*/
+h2:after
+{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0px;
+    top: 100%;
+    border-width: 5px 10px;
+    border-style: solid;
+    border-color: #666 #666 transparent transparent;
+}
+
+h2::before{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: -2px;
+    top: 0px;
+    border-color: transparent #fff transparent transparent;
+}
+
+h2{
+    position: relative;
+    width: 50%;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 6px 20px 6px 70px;
+    margin: 30px 10px 10px -40px;
+    color: #555;
+    background-color: #999;
+    text-shadow: 0px 1px 2px #bbb;
+    -webkit-box-shadow: 0px 2px 4px #888;
+    -moz-box-shadow: 0px 2px 4px #888;
+    box-shadow: 0px 2px 4px #888;
+}
+
+.js #contact {
+    position: absolute;
+    top: 300px;
+    width: inherit;
+    display: none;
+    background-color: #d6d6d6;
+    box-shadow: 0px 5px 10px #8393b1;
+}	
+
+div.aside {
+    border-radius: 8px;
+    height: 170px;
+    overflow: hidden;
+    padding: 15px 0 0 0;
+    width : 235px;
+    border : 1px solid gray;
+}
+
+div.span3 {
+    padding-top: 1px;
+    background: none;
+}
+
+tbody tr td {
+    height: 25px;
+    padding-top: 10px;
+}

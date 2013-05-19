@@ -1,0 +1,47 @@
+@charset 'UTF-8';
+/*
+ * Bootstrap Image Gallery CSS Example 1.0
+ * https://github.com/blueimp/Bootstrap-Image-Gallery
+ *
+ * Copyright 2012, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+
+body {
+    padding-top: 60px;
+    background: #222;
+/*    color: #fff;*/
+}
+header {
+    margin-bottom: 10px;
+}
+header h1 {
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+header a {
+    color: orange;
+}
+.modal {
+    color: #333;
+}
+#gallery > a > img{
+    width: 100px;
+    height: 100px;
+}
+
+.gallery-container{
+    box-shadow: 1px 1px 10px grey;
+    border: 1px solid gray;
+    color : gray ;
+    padding: 20px 40px 20px 40px;
+    border-radius: 4px;
+}
+
+#gallery {
+padding: 5px 5px 0px 5px;
+border: 1px solid rgb(218, 218, 218);;
+}
